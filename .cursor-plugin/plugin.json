@@ -1,7 +1,7 @@
 {
   "name": "instagram-web-agent-by-nova",
   "version": "1.0.0",
-  "description": "I use your Instagram Web browser session (Integrations \u2192 Instagram Web) via instagrapi, not Meta / Graph API",
+  "description": "Look up Instagram profiles, posts, stories, hashtags and comments, list DM threads, and send direct messages from a linked account.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co"
